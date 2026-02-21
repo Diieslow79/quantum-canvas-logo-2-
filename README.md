@@ -1,7 +1,7 @@
 
 # Quantum Canvas Logo 2
 
-**Live Demo:** Live Demo: https://dieslow79.github.io/quantum-canvas-logo-2
+**Live Demo:** Live Demo: https://diieslow79.github.io/quantum-canvas-logo-2
 
 
 An interactive, generative logo for a digital art marketplace where every piece is co-created between human imagination and AI.
